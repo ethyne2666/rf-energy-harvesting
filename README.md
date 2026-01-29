@@ -125,5 +125,21 @@ This project follows **Open Science principles**:
 }
 
 
-RF energy harvesting systems typically consist of the following blocks:
+👨‍🔬 Author
+
+Ashwin raj 
+Charan Kumar
+
+B.Tech – Electronics & Communication Engineering
+Research Interests: RF Systems, Energy Harvesting, CMOS Circuits, Open Science
+
+📎 ORCID: https://orcid.org/0009-0003-4273-2154
+
+
+```
+if you are instead in these technologies and want to join with us,
+we welcome contributions 
+if you are intersted please contact me to get joined to our team
+```
+Thank you for reading 
 
